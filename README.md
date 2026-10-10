@@ -4,12 +4,9 @@
   <samp>&gt; Hey, I am Mohammed</samp>
 </h3>
 <br>
-
 <p align="center">
   <samp>
-    「 I am a Self-learner, interested in ▼ 」
-    <br>
-  
+    <b>I am a Self-learner, interested in ▼</b>
   </samp>
 </p>
 
